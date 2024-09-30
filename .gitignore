@@ -17,7 +17,7 @@ venv/
 
 
 # Migrations files
- src/migrations/versions/
+src/migrations/versions/
 
 # Test files
 tests/__pycache__/
