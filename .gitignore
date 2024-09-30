@@ -1,0 +1,43 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# FastAPI files
+main.log
+uvicorn.log
+
+# IDE files
+.idea/
+pycharm/
+
+# Virtual environment files
+venv/
+.env
+
+
+# Migrations files
+ src/migrations/versions/
+
+# Test files
+tests/__pycache__/
+tests/*.pyc
+tests/*.pyo
+
+# Coverage files
+coverage/
+.htmlcov/
+
+# Docs files
+docs/_build/
+docs/html/
+
+# Other files
+*.iml
+*.ipynb
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
