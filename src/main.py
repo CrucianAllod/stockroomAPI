@@ -15,6 +15,7 @@ async def lifespan(app: FastAPI):
     await delete_tables()
     print("База очищена")
 
+
 app = FastAPI(lifespan=lifespan)
 
 for router in all_routers:

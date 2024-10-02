@@ -50,7 +50,7 @@ stockroomAPI
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <URL репозитория>
+git clone https://github.com/CrucianAllod/stockroomAPI.git
 cd stockroomAPI
 ```
 
